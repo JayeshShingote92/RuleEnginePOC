@@ -1,0 +1,142 @@
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\RuleEnginePOC.exe
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\RuleEnginePOC.deps.json
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\RuleEnginePOC.runtimeconfig.json
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\RuleEnginePOC.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\RuleEnginePOC.pdb
+D:\Jayesh Technical\.NET\RuleEnginePOC\obj\Debug\net6.0\RuleEnginePOC.csproj.AssemblyReference.cache
+D:\Jayesh Technical\.NET\RuleEnginePOC\obj\Debug\net6.0\RuleEnginePOC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jayesh Technical\.NET\RuleEnginePOC\obj\Debug\net6.0\RuleEnginePOC.AssemblyInfoInputs.cache
+D:\Jayesh Technical\.NET\RuleEnginePOC\obj\Debug\net6.0\RuleEnginePOC.AssemblyInfo.cs
+D:\Jayesh Technical\.NET\RuleEnginePOC\obj\Debug\net6.0\RuleEnginePOC.csproj.CoreCompileInputs.cache
+D:\Jayesh Technical\.NET\RuleEnginePOC\obj\Debug\net6.0\RuleEnginePOC.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\obj\Debug\net6.0\refint\RuleEnginePOC.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\obj\Debug\net6.0\RuleEnginePOC.pdb
+D:\Jayesh Technical\.NET\RuleEnginePOC\obj\Debug\net6.0\RuleEnginePOC.genruntimeconfig.cache
+D:\Jayesh Technical\.NET\RuleEnginePOC\obj\Debug\net6.0\ref\RuleEnginePOC.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Humanizer.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\obj\Debug\net6.0\RuleEnginePOC.csproj.CopyComplete
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\System.Text.Json.dll
+D:\Jayesh Technical\.NET\RuleEnginePOC\bin\Debug\net6.0\appsettings.json
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\appsettings.json
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\RuleEnginePOC.exe
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\RuleEnginePOC.deps.json
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\RuleEnginePOC.runtimeconfig.json
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\RuleEnginePOC.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\RuleEnginePOC.pdb
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\obj\Debug\net6.0\RuleEnginePOC.csproj.AssemblyReference.cache
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\obj\Debug\net6.0\RuleEnginePOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\obj\Debug\net6.0\RuleEnginePOC.AssemblyInfoInputs.cache
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\obj\Debug\net6.0\RuleEnginePOC.AssemblyInfo.cs
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\obj\Debug\net6.0\RuleEnginePOC.csproj.CoreCompileInputs.cache
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\obj\Debug\net6.0\RuleEngi.671F9C4C.Up2Date
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\obj\Debug\net6.0\RuleEnginePOC.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\obj\Debug\net6.0\refint\RuleEnginePOC.dll
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\obj\Debug\net6.0\RuleEnginePOC.pdb
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\obj\Debug\net6.0\RuleEnginePOC.genruntimeconfig.cache
+C:\Users\hpnam\Source\Repos\RuleEnginePOC\obj\Debug\net6.0\ref\RuleEnginePOC.dll
